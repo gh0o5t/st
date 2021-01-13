@@ -7,7 +7,7 @@
  */
 //static char *font = "Monospace:style=regular:size=10:antialias=true:autohint=true";
 static char *font = "Fantasque Sans Mono:size=10:antialias=true:autohint=true";
-static int borderpx = 2;
+static int borderpx = 5;
 
 /*
  * What program is execed by st depends of these precedence rules:
